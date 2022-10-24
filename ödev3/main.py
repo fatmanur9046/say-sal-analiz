@@ -6,5 +6,3 @@ for i in range(0,interasyon):
     payda=(4*(2.71**(us*kok))(-1/2)-1)
     kok=kok-(pay/payda)
 print(kok)
-
-print(4*(2**(us*0.01778))-0.1778)
